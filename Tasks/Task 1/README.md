@@ -18,6 +18,6 @@ This folder contains a Jupyter Notebook implementing a **Linear Regression Model
 - `students-score-prediction.ipynb` – Jupyter Notebook with:
   - Data Exploration  
   - Data Cleaning  
-  - Feature Engineering  
+  - Data Visualization 
   - Linear Regression Model training and evaluation 
 
