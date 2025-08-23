@@ -13,15 +13,12 @@ ML-Tasks/
 ├── task1/
 │ ├── task1.ipynb
 │ └── README.md
-```
 ├── task2/
 │ ├── task2.ipynb
 │ └── README.md
-```
 ├── task3/
 │ ├── task3.ipynb
 │ └── README.md
-```
 ├── task4/
 │ ├── task4.ipynb
 │ └── README.md
