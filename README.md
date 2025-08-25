@@ -8,8 +8,8 @@ Each folder includes: 💡
   - README.md file to describe the task 📃
 
 ## 📂 STRUCTURE:
-ML-Tasks/
 ```
+ML-Tasks/
 ├── task1/
 │ ├── task1.ipynb
 │ └── README.md
