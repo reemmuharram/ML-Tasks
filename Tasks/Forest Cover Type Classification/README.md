@@ -19,7 +19,7 @@ This folder contains a Jupyter Notebook for Forest Covertype Classification usin
 
 ---
 
-## 📓 Contents
+## 📓 Content
 - `forest-cover-type-classification-randomforest` – Jupyter Notebook with:
   - Data Exploration  
   - Data Preprocessing  
