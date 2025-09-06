@@ -4,7 +4,6 @@ This repository contains a collection of Machine Learning Tasks for the Elevvo P
 Each task is organized in its own folder ⭐
 Each folder includes: 💡  
   - Jupyter Notebook 📓
-  - Model Deployment (still in progress ⚙️)
   - README.md file to describe the task 📃
 
 ## 📂 STRUCTURE:
