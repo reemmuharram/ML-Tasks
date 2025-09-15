@@ -2,6 +2,9 @@
 
 This folder contains a Jupyter Notebook implementing a **Linear Regression Model** to predict students' scores based on multiple features.
 
+## Streanlit Demo🚀:
+[You can try it out here🚀](https://students-scores-prediction-jfey8p8nngrshjahnomhdm.streamlit.app/)
+
 ---
 
 ## 🧩 Features Used
