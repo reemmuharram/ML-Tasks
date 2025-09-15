@@ -3,7 +3,7 @@
 This folder contains a Jupyter Notebook for Loan Approval Prediction using **Logistic Regression** and **Decision Tree**🔎.
 
 ## 🚀 Streamlit Demo
-[You can try it out here🚀: ](https://loan-approval-prediction-mvjrlxuuaer7tmykne4dar.streamlit.app/)
+[You can try it out here🚀 ](https://loan-approval-prediction-mvjrlxuuaer7tmykne4dar.streamlit.app/)
 
 ## 🧩 Features
 - Number of Dependents of the Applicant
