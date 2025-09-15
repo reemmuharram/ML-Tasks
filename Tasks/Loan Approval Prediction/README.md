@@ -1,7 +1,9 @@
 # Loan Approval Prediction - Binary Classification 💵
 
 This folder contains a Jupyter Notebook for Loan Approval Prediction using **Logistic Regression** and **Decision Tree**🔎.
-[You can try it here 🚀](https://students-scores-prediction-jfey8p8nngrshjahnomhdm.streamlit.app/)
+
+## 🚀 Streamlit Demo
+[You can try it out here🚀: ](https://loan-approval-prediction-mvjrlxuuaer7tmykne4dar.streamlit.app/)
 
 ## 🧩 Features
 - Number of Dependents of the Applicant
